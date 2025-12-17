@@ -12,7 +12,7 @@ Tampilan antarmuka Sistem Manajemen Perpustakaan:
 
 | Screenshot | Screenshot |
 |-----------|------------|
-<img src="img/WhatsApp Image 2025-12-17 at 20.55.47 (1).jpeg" width="400"> | <img src="img/WhatsApp Image 2025-12-17 at 20.55.47" width="400"> |
+<img src="img/WhatsApp Image 2025-12-17 at 20.55.47 (1).jpeg" width="400"> | <img src="img/WhatsApp Image 2025-12-17 at 20.55.47.jpeg" width="400"> |
 | <img src="img/WhatsApp Image 2025-12-17 at 20.55.48 (1).jpeg" width="400"> | <img src="img/WhatsApp Image 2025-12-17 at 20.55.48.jpeg" width="400"> |
 
 ## 🎯 Tujuan
